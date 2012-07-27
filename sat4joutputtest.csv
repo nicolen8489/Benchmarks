@@ -1,0 +1,4 @@
+#-s1 java -jar /home/nicolen/Documents/Thesis/sat4j.jar -n SAT4J -d ../cnfFiles/test/
+filename,SAT4J SAT/UNSAT,SAT4J nodeCount,SAT4J scoutCount,SAT4J time,SAT4J solvedBy,SAT4J scoutTime,SAT4J scoutSetup,SAT4J scoutOverhead,SAT4J %overhead,SAT4J validated
+3blocks.cnf,SAT,1629,,0.263277053833008,,,,,,
+3blocks2.cnf,SAT,1629,,0.2776198387146,,,,,,

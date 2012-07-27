@@ -1,0 +1,9 @@
+#-s1 java -jar /home/nicolen/Documents/Thesis/sat4j.jar -n SAT4J -t 900 -d ../cnfFiles/Benchmarks/smallSuite/SATunder10/,,,
+filename,SAT4J SAT/UNSAT,SAT4J nodeCount,SAT4J time
+mod2c-rand3bip-sat-220-1.shuffled-as.sat05-2488.cnf.bz2,SAT,1553835,346.282576799393
+VanDerWaerden_pd_2-3-22_443.cnf.bz2,SAT,4345181,497.093820810318
+mizh-sha0-35-5.cnf.bz2,SAT,3357497,522.378481149673
+unif-k7-r89-v50-c4450-S864690872-081.SATISFIABLE.cnf.bz2,SAT,4470807,437.525633096695
+openstacks-sequencedstrips-nonadl-nonnegated-os-sequencedstrips-p30_3.085-SAT.cnf.bz2,SAT,1491191,500.287760972977
+mizh-sha0-36-2.cnf.bz2,SAT,3563232,460.540123939514
+battleship-16-31-sat.cnf.bz2,SAT,4899217,459.517242908478

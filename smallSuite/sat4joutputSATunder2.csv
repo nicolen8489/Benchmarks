@@ -1,0 +1,7 @@
+#-s1 java -jar /home/nicolen/Documents/Thesis/sat4j.jar -n SAT4J -d ../cnfFiles/Benchmarks/smallSuite/SATunder2/,,,
+filename,SAT4J SAT/UNSAT,SAT4J nodeCount,SAT4J time
+sgen3-n120-s12930489-sat.cnf.bz2,SAT,732933,62.5551958084106
+battleship-14-27-sat.cnf.bz2,SAT,1936581,119.75063085556
+VanDerWaerden_pd_2-3-21_404.cnf.bz2,SAT,930087,95.4907851219177
+E05F20.cnf.bz2,SAT,905473,154.864510059357
+aes_32_2_keyfind_1.cnf.bz2,SAT,219336,46.4334490299225
